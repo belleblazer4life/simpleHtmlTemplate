@@ -1,4 +1,7 @@
 
+[<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" width="120"/>](image.png)   
+
+
 ## Getting (clone) the rep from Github.  
 Use command showing below:  
 
